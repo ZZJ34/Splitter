@@ -2,13 +2,13 @@
 
 ```
 --imagepath
-/Volumes/ZZJ的小姐姐们/dota-train/images
+/xxxxxxx/dota-train/images
 --annotationpath
-/Volumes/ZZJ的小姐姐们/dota-train/labels
+/xxxxxxx/dota-train/labels
 --imageoutput
-/Volumes/ZZJ的小姐姐们/output_image
+/xxxxxxx/output_image
 --annotationoutput
-/Volumes/ZZJ的小姐姐们/output_label
+/xxxxxxx/output_label
 --size
 500
 --threshold
